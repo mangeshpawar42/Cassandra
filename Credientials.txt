@@ -1,0 +1,9 @@
+
+DATASTAX : https://astra.datastax.com/org/2ca1e6e0-a3f2-4a7f-b95b-f9a448d48cd5/database/362b2367-07a6-4035-abbc-ef806b6fe3b4
+
+{
+  "clientId": "voGnEMDbeEEKhBIaGYCuvYTE"
+  "secret": "yy6wejDTpF5sn0xK,++GmFh8oYYD3,d1gJSiPPk5Wycu+NnQyZKjLx0491+CcnnJAZlG0zI_SGBU0ghEig6lMC_grcGf7gZ5N,-5bqd+Qutvin1-Q9OJ81zqEwdmiwc2"
+  "token": "AstraCS:voGnEMDbeEEKhBIaGYCuvYTE:849caf004aaa89bda0fbc32a949d5fd64bc35d48f5c5c507a8444261394efa4b"
+}
+
